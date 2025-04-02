@@ -27,7 +27,7 @@ capabilities to provide smart suggestions, reminders, and categorization for you
 - **AI Integration**: NLP for note categorization
 
 - **Cloud Storage**: PostgreSQL
-
+-**Backend**: Django
 ## Installation
 
 1. Clone the repository:
